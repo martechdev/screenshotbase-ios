@@ -9,7 +9,7 @@ Supports async/await and completion handlers. See docs at https://screenshotbase
   s.homepage         = 'https://screenshotbase.com'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'EverAPI' => 'support@screenshotbase.com' }
-  s.source           = { :git => 'https://github.com/everapihq/screenshotbase-ios.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/martechdev/screenshotbase-ios.git', :tag => s.version.to_s }
 
   s.swift_version    = '5.9'
   s.ios.deployment_target = '12.0'
