@@ -8,7 +8,7 @@
 Add to your Podfile:
 
 ```ruby
-pod 'Screenshotbase', :git => 'https://github.com/everapihq/screenshotbase-ios.git', :tag => '0.1.0'
+pod 'Screenshotbase', :git => 'https://github.com/martechdev/screenshotbase-ios.git', :tag => '0.1.0'
 ```
 
 Then run:
